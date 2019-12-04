@@ -4,7 +4,7 @@ Created on Tue Nov 26 09:44:36 2019
 
 @author: stu9
 """
-
+# Github zzazeungna~
 import numpy as np
 import tensorflow as tf
 
